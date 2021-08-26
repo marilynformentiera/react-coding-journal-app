@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-coding-journal-app/static/css/main.4984afdd.chunk.css",
+    "main.js": "/react-coding-journal-app/static/js/main.136581b6.chunk.js",
+    "main.js.map": "/react-coding-journal-app/static/js/main.136581b6.chunk.js.map",
+    "runtime-main.js": "/react-coding-journal-app/static/js/runtime-main.14f7e66e.js",
+    "runtime-main.js.map": "/react-coding-journal-app/static/js/runtime-main.14f7e66e.js.map",
+    "static/css/2.818011ed.chunk.css": "/react-coding-journal-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.52e71031.chunk.js": "/react-coding-journal-app/static/js/2.52e71031.chunk.js",
+    "static/js/2.52e71031.chunk.js.map": "/react-coding-journal-app/static/js/2.52e71031.chunk.js.map",
+    "static/js/3.81c32eb2.chunk.js": "/react-coding-journal-app/static/js/3.81c32eb2.chunk.js",
+    "static/js/3.81c32eb2.chunk.js.map": "/react-coding-journal-app/static/js/3.81c32eb2.chunk.js.map",
+    "index.html": "/react-coding-journal-app/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/react-coding-journal-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.4984afdd.chunk.css.map": "/react-coding-journal-app/static/css/main.4984afdd.chunk.css.map",
+    "static/js/2.52e71031.chunk.js.LICENSE.txt": "/react-coding-journal-app/static/js/2.52e71031.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f7e66e.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.52e71031.chunk.js",
+    "static/css/main.4984afdd.chunk.css",
+    "static/js/main.136581b6.chunk.js"
+  ]
+}
